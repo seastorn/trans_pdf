@@ -32,6 +32,8 @@ public class Test {
         System.out.println("master 新增");
         System.out.println("master 新增2");
 
+        System.out.println("hot-fix修改2");
+        System.out.println("hot-fix修改3");
     }
 
     public void say(){
