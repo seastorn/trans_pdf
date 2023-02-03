@@ -29,6 +29,8 @@ public class Test {
 
         System.out.println("修改111");
         System.out.println("hot-fix修改");
+        System.out.println("hot-fix修改2");
+        System.out.println("hot-fix修改3");
     }
 
     public void say(){
