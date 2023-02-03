@@ -31,4 +31,8 @@ public class Test {
         System.out.println("hot-fix修改");
         System.out.println("master 新增");
     }
+
+    public void say(){
+        System.out.println("hot-fix");
+    }
 }
