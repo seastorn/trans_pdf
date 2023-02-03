@@ -30,4 +30,8 @@ public class Test {
         System.out.println("修改111");
         System.out.println("hot-fix修改");
     }
+
+    public void say(){
+        System.out.println("hot-fix");
+    }
 }
