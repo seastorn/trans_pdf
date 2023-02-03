@@ -30,6 +30,8 @@ public class Test {
         System.out.println("修改111");
         System.out.println("hot-fix修改");
         System.out.println("master 新增");
+        System.out.println("master 新增2");
+
     }
 
     public void say(){
