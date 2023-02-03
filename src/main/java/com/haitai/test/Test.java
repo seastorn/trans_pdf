@@ -36,6 +36,9 @@ public class Test {
         System.out.println("hot-fix修改3");
 
         System.out.println("远程push....");
+        
+        System.out.println("remote test....");
+
     }
 
     public void say(){
