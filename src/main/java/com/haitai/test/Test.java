@@ -34,6 +34,8 @@ public class Test {
 //冲突是对应行数相同来说
         System.out.println("hot-fix修改2");
         System.out.println("hot-fix修改3");
+
+        System.out.println("远程push....");
     }
 
     public void say(){
