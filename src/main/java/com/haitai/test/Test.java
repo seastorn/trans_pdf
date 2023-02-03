@@ -31,7 +31,7 @@ public class Test {
         System.out.println("hot-fix修改");
         System.out.println("master 新增");
         System.out.println("master 新增2");
-
+//冲突是对应行数相同来说
         System.out.println("hot-fix修改2");
         System.out.println("hot-fix修改3");
     }
